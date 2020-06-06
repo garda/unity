@@ -1,1 +1,1 @@
-# unity
+# RISEBA / Liepājas Univeristātes Darbs
